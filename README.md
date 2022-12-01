@@ -59,3 +59,13 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+## Author
+Ke Li
+
+Pass the freetest.py
+
+## Collaborations
+
+with kexun (*Kexun Niu)
+     wcao4 (*Wenhao Cao)
